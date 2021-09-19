@@ -1,8 +1,12 @@
 - 👋 Hi, I’m Vishal Kumar
 - 👀 I’m interested in tech & sports
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Connect with me on 
+  - [LinkedIn](https://www.linkedin.com/in/vishalkumar28/) 
+  - [Twitter](https://twitter.com/Vishalk01234)
+  - [Mail Id](mailto:leader.vishalkumar@gmail.com)
+  - [Portfolio](https://vishalkumar.netlify.app/ )
+  
 
 <!---
 VLeads/VLeads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
