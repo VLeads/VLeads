@@ -6,14 +6,16 @@
   
 </div>
 
-  - [Mail Id](mailto:leader.vishalkumar@gmail.com)
-  - [Portfolio](https://vishalkumar.netlify.app/ )
-  
+
 
 
 I am an Aspiring FullStack developer. I love doing side-projects and to date have made many of them. Please have a look at my [GitHub repositories](https://github.com/vleads?tab=repositories) to know more about them.
 
 👀 I’m interested in tech & sports
+
+  - [Mail Id](mailto:leader.vishalkumar@gmail.com)
+  - [Portfolio](https://vishalkumar.netlify.app/ )
+  
 
 ## 👨‍💻 Tech Skills
 
