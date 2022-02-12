@@ -8,7 +8,7 @@
   - [Portfolio](https://vishalkumar.netlify.app/ )
   - 
  <div align="center">
-  [![](https://komarev.com/ghpvc/?username=vleads&color=blue&label=Profile%20Views)](https://github.com/vleads/vleads)
+  ![](https://komarev.com/ghpvc/?username=vleads)
 </div>
 
 <!---
