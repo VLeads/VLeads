@@ -6,7 +6,10 @@
   - [Twitter](https://twitter.com/Vishalk01234)
   - [Mail Id](mailto:leader.vishalkumar@gmail.com)
   - [Portfolio](https://vishalkumar.netlify.app/ )
-  
+  - 
+ <div align="center">
+  [![](https://komarev.com/ghpvc/?username=vleads&color=blue&label=Profile%20Views)](https://github.com/vleads/vleads)
+</div>
 
 <!---
 VLeads/VLeads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
