@@ -9,7 +9,7 @@
   
  <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=vleads&color=blue&label=Profile%20Views)
+  [![](https://komarev.com/ghpvc/?username=vleads&color=blue&label=Profile%20Views)](https://github.com/VLeads)
   
 </div>
 
