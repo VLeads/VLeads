@@ -6,9 +6,11 @@
   - [Twitter](https://twitter.com/Vishalk01234)
   - [Mail Id](mailto:leader.vishalkumar@gmail.com)
   - [Portfolio](https://vishalkumar.netlify.app/ )
-  - 
+  
  <div align="center">
-  ![](https://komarev.com/ghpvc/?username=vleads)
+  
+  ![](https://komarev.com/ghpvc/?username=vleads&color=blue&label=Profile%20Views)
+  
 </div>
 
 <!---
