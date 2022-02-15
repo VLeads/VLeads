@@ -33,7 +33,10 @@ I am an Aspiring FullStack developer. I love doing side-projects and to date hav
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 -----
+<h2> 😂 Here is a random joke to make your day! </h2>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+-----
 ## 🌍 Find Around The Web
 
 <a href="https://twitter.com/vishalk01234"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
