@@ -33,7 +33,7 @@ I am an Aspiring FullStack developer. I love doing side-projects and to date hav
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 -----
-<h2> 😂 Here is a random joke to make your day! </h2>
+<h2> 😂 Here is a random joke to made your day! </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 -----
@@ -45,8 +45,6 @@ I am an Aspiring FullStack developer. I love doing side-projects and to date hav
 <a href="https://www.reddit.com/user/thisis_vishal_"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/15478545/vishal-kumar"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://thisisvishal.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-
------
 
 -----
 
