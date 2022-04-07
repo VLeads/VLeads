@@ -1,8 +1,6 @@
 <div align="center">
- 
-# Hello 👋, I'm Vishal.
 
- 
+ ### 👋 Hello world!   
   
   [![](https://komarev.com/ghpvc/?username=vleads&color=blue&label=Profile%20Views)](https://github.com/VLeads)
   
@@ -11,10 +9,12 @@
 
 
 
-I am an Aspiring FullStack developer. I love doing side-projects and to date have made many of them. Please have a look at my [GitHub repositories](https://github.com/vleads?tab=repositories) to know more about them.
+My name is Vishal Kumar. I am an Aspiring FullStack developer. I love doing side-projects and to date have made many of them. Please have a look at my [GitHub repositories](https://github.com/vleads?tab=repositories) to know more about them.
+
+<a href="mailto:leader.vishalkumar@gmail.com">Mail ID</a>
 
 ### 👀 Some Things About Me
-<li> I’m interested in tech & sports</li>
+<li> ⚡I’m interested in tech & sports</li>
 <li>🖥️ Coding Environment: Dark 🕶️ + Music 🎧</li>
 <li>💬 Favourite Quotes: 
 
@@ -23,12 +23,11 @@ I am an Aspiring FullStack developer. I love doing side-projects and to date hav
 > "You don't have to be great to start, but you have to start to be great"  - Zig Zagler
 </li>
 
-  - [Mail Id](mailto:leader.vishalkumar@gmail.com)
-  - [Portfolio](https://vishalkumar.netlify.app/ )
-  
-<li>🙏 Support me at <a href="https://www.buymeacoffee.com/thisisvishal" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?&style=flat-square&&logo=buy%20me%20a%20coffee&logoColor=black" /></a></li>
+<li>🙏 Support me at <a href="https://www.buymeacoffee.com/vkvishal64F" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?&style=flat-square&&logo=buy%20me%20a%20coffee&logoColor=black" /></a></li>
 
-## 👨‍💻 Tech Skills
+----
+
+### 👨‍💻 Tech Skills
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,11 +43,11 @@ I am an Aspiring FullStack developer. I love doing side-projects and to date hav
 ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?&style=for-the-badge&logo=adobe%20photoshop&logoColor=31a8ff)
 
 -----
-<h2> 😂 Here is a random joke to made your day! </h2>
+<h2> 😂 Here is a random joke to make your day! </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 -----
-## 🌍 Find Around The Web & feel free to Connect
+### 🌍 Find Around The Web & feel free to Connect
 
 <a href="https://twitter.com/vishalk01234"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://github.com/VLeads"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -77,9 +76,7 @@ I am an Aspiring FullStack developer. I love doing side-projects and to date hav
 - [10 Important productivity tools to make developer life easier 👨‍💻👨‍💻](https://thisisvishal.hashnode.dev/10-important-productivity-tools-to-make-developer-life-easier)
 ----
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/vkvishal64F"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-</div>
+
   
 <!---
 VLeads/VLeads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
