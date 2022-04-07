@@ -13,11 +13,20 @@
 
 I am an Aspiring FullStack developer. I love doing side-projects and to date have made many of them. Please have a look at my [GitHub repositories](https://github.com/vleads?tab=repositories) to know more about them.
 
-👀 I’m interested in tech & sports
+### 👀 Some Things About Me
+<li> I’m interested in tech & sports</li>
+<li>🖥️ Coding Environment: Dark 🕶️ + Music 🎧</li>
+<li>💬 Favourite Quotes: 
+
+> "If you don't wake up everyday with a burning desire to do things, you don't have enough goals." - Lou Holtz
+ 
+> "You don't have to be great to start, but you have to start to be great"  - Zig Zagler
+</li>
 
   - [Mail Id](mailto:leader.vishalkumar@gmail.com)
   - [Portfolio](https://vishalkumar.netlify.app/ )
   
+<li>🙏 Support me at <a href="https://www.buymeacoffee.com/thisisvishal" target="_blank"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?&style=flat-square&&logo=buy%20me%20a%20coffee&logoColor=black" /></a></li>
 
 ## 👨‍💻 Tech Skills
 
@@ -57,11 +66,16 @@ I am an Aspiring FullStack developer. I love doing side-projects and to date hav
 
 ----
 
-## 📊 Github Stats
+### 📝 Check out my latest articles!
+<!
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vleads&show_icons=true&theme=gotham" alt="Vishal Kumar | Stats" />
 
 -----
+### 📝 Check out my latest articles!
+- [map, filter, reduce functions in JavaScript made easy 🔥](https://thisisvishal.hashnode.dev/map-filter-reduce-functions-in-javascript-made-easy)
+- [10 Important productivity tools to make developer life easier 👨‍💻👨‍💻](https://thisisvishal.hashnode.dev/10-important-productivity-tools-to-make-developer-life-easier)
+----
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/vkvishal64F"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
