@@ -48,8 +48,6 @@ I am an Aspiring FullStack developer. I love doing side-projects and to date hav
 <a href="https://stackoverflow.com/users/15478545/vishal-kumar"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="https://thisisvishal.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 
------
-
 
 <div align="center">
  
