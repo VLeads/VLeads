@@ -57,17 +57,17 @@ My name is Vishal Kumar. I am an Aspiring FullStack developer. I love doing side
 <a href="https://thisisvishal.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 
 
-<div align="center">
- 
-![](https://github.com/VLeads/VLeads/blob/main/github-contribution.svg?raw=true)
- 
-</div>
-
 ----
 
 ### 📝 Check out my latest articles!
 - [map, filter, reduce functions in JavaScript made easy 🔥](https://thisisvishal.hashnode.dev/map-filter-reduce-functions-in-javascript-made-easy)
 - [10 Important productivity tools to make developer life easier 👨‍💻👨‍💻](https://thisisvishal.hashnode.dev/10-important-productivity-tools-to-make-developer-life-easier)
+
+<div align="center">
+ 
+![](https://github.com/VLeads/VLeads/blob/main/github-contribution.svg?raw=true)
+ 
+</div>
 
 ----
 
