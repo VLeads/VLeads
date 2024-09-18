@@ -9,7 +9,7 @@
 
 
 
-My name is Vishal Kumar. I am an Aspiring FullStack developer. I love doing side-projects and to date have made many of them. Please have a look at my [GitHub repositories](https://github.com/vleads?tab=repositories) to know more about them.
+My name is Vishal Kumar. I am a FullStack developer. I love doing side-projects and to date have made many of them. Please have a look at my [GitHub repositories](https://github.com/vleads?tab=repositories) to know more about them.
 
 <a href="mailto:leader.vishalkumar@gmail.com">Mail ID</a>
 
