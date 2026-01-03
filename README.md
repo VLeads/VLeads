@@ -8,7 +8,7 @@
 
 
 
-Hi, this is Vishal Kumar, specialized in Frontend Web Development from 🇮🇳 India, with 3+ years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications.I love doing side-projects and to date have made many of them. Please have a look at my [GitHub repositories](https://github.com/vleads?tab=repositories) to know more about them.
+I'm a Software Engineer & Avid Learner specialized in Frontend Web Development from 🇮🇳 India, with 3+ years of professional experience in both onsite and remote environments. I'm passionate about building production-ready applications.I love doing side-projects and to date have made many of them. Please have a look at my [GitHub repositories](https://github.com/vleads?tab=repositories) to know more about them.
 
 <a href="mailto:leader.vishalkumar@gmail.com">Mail ID</a>
 
